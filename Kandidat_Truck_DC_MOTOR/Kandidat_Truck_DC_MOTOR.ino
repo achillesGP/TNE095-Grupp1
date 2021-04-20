@@ -36,7 +36,7 @@ int MotorBip2 = 5;
 char c = ' ';
 char last_c = ' ';
 
-
+char hej;
 void setup() {
   //Serial är konsolen på vår sida.
   //Serial.begin(9600);
