@@ -11,7 +11,7 @@ float D;
 
 char g;
 //IR sensor, använder 7 st just nu
-const uint8_t SensorCount = 8;
+const uint8_t SensorCount = 9;
 //Varje sensor sätts inom en array
 uint16_t sensorValues[SensorCount];
 bool test = false;
